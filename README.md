@@ -5,11 +5,6 @@
 ## Overview
 This project aims to identify trends in Diwali sales to enhance customer satisfaction and boost revenue. By analyzing sales data, product preferences, purchasing patterns, and customer demographics, we uncover actionable insights. This demonstrates the ability to analyze sales data and generate valuable business insights.
 
-## Project Structure
-- **Diwali_Sales_Analysis.ipynb**: Jupyter notebook containing the entire analysis process, including data cleaning, transformation, analysis, and visualization.
-- **data/**: Directory containing the raw and cleaned data files used in the analysis.
-- **images/**: Directory containing images and plots generated during the analysis.
-- **README.md**: Documentation and project overview.
 
 ## Features
 - **Data Cleaning**: Preprocessing raw data to handle missing values, outliers, and inconsistencies.
@@ -18,39 +13,19 @@ This project aims to identify trends in Diwali sales to enhance customer satisfa
 - **Visualization**: Using visualization tools like Matplotlib and Seaborn to highlight key insights.
 - **Business Insights**: Providing actionable insights to improve product offerings, marketing strategies, and customer satisfaction.
 
-## Getting Started
-### Prerequisites
-- Python 3.7 or higher
-- Jupyter Notebook
-- Required libraries: pandas, numpy, matplotlib, seaborn
+![image](https://github.com/ageerHarikrishna/Diwali_Sales_Analysis/blob/main/Screenshot%202024-06-16%20011053.png)
+From above graphs we can see that most of the buyers are working in IT, Healthcare and Aviation sector
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/diwali-sales-analysis.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd diwali-sales-analysis
-   ```
-3. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-### Usage
-1. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook Diwali_Sales_Analysis.ipynb
-   ```
-2. Run the notebook cells to execute the analysis step-by-step.
 
+
+![image](https://github.com/ageerHarikrishna/Diwali_Sales_Analysis/blob/main/Screenshot%202024-06-16%20011336.png)
+From above graphs we can see that most of the sold products are from Food, Clothing and Electronics category
+
+### overall 
+Married women age group 26-35 yrs from UP, Maharastra and Karnataka working in IT, Healthcare and Aviation are more likely to buy products from Food, Clothing and Electronics category
 ## Business Value
 The insights from this analysis help businesses optimize their product offerings and marketing strategies during the Diwali season. By understanding customer preferences and purchasing behaviors, companies can enhance customer satisfaction, improve inventory management, and increase revenue.
 
-## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-This project is licensed under the MIT License.
 
