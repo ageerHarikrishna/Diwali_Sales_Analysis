@@ -12,6 +12,7 @@ This project aims to identify trends in Diwali sales to enhance customer satisfa
 - **Analysis**: Conducting exploratory data analysis (EDA) to identify trends and patterns in Diwali sales.
 - **Visualization**: Using visualization tools like Matplotlib and Seaborn to highlight key insights.
 - **Business Insights**: Providing actionable insights to improve product offerings, marketing strategies, and customer satisfaction.
+11k+ datarows
 
 ![image](https://github.com/ageerHarikrishna/Diwali_Sales_Analysis/blob/main/Screenshot%202024-06-16%20011053.png)
 From above graphs we can see that most of the buyers are working in IT, Healthcare and Aviation sector
