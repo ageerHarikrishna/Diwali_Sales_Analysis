@@ -1,6 +1,4 @@
-Here is a README for your GitHub page:
 
----
 
 # Diwali Sales Analysis
 
